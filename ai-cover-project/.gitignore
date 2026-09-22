@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+demucs_cache/
+*.bak
+*.bak2
+*.bak_index
